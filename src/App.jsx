@@ -93,7 +93,6 @@ function App() {
             "Basic SEO optimization",
             "Contact form integration",
             "Social media links",
-            "Google Maps integration",
             "Basic analytics setup"
           ]
         },
@@ -451,7 +450,7 @@ function App() {
                 <h4 className={`text-xl font-semibold mb-4 text-center ${
                   isDark ? 'text-white' : 'text-gray-900'
                 }`}>Website Maintenance</h4>
-                <p className="text-3xl font-bold mb-4 text-center text-teal-500">₹7,500-65,000</p>
+                <p className="text-3xl font-bold mb-4 text-center text-teal-500">₹4000-65,000</p>
                 <p className={`text-lg text-center ${
                   isDark ? 'text-gray-300' : 'text-gray-600'
                 }`}>Per Month</p>
