@@ -19,7 +19,7 @@ function Modal({ isOpen, onClose, title, details }) {
           isDark 
             ? 'bg-gradient-to-br from-gray-900 to-black' 
             : 'bg-gradient-to-br from-white to-gray-100'
-        } p-8 rounded-xl max-w-2xl w-full mx-4 relative border ${
+        } px-4 py-8 rounded-xl max-w-2xl w-full mx-4 relative border ${
           isDark ? 'border-gray-700' : 'border-gray-200'
         } shadow-2xl`}
         style={{ maxHeight: '90vh', overflowY: 'auto' }}
